@@ -20,6 +20,22 @@ class Home extends CI_Controller {
 	 */
 	public function index()
 	{
-		$this->load->view('home');
+		$this->template->load('template','home');	
+	}
+	public function apicurrencylayer(){
+		$endpoint = 'live';
+		$access_key = 'b8f26fe7d0c35cdb30264c1a26d993cf';
+
+		// Initialize CURL:
+		$ch = curl_init('http://apilayer.net/api/'.$endpoint.'?access_key='.$access_key.'');
+		curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+
+		// Store the data:
+		$json = curl_exec($ch);
+		curl_close($ch);
+
+		// Decode JSON response:
+		$exchangeRates = json_decode($json, true);
+		echo $json;
 	}
 }
