@@ -1,0 +1,70 @@
+[33mcommit 8c6a4ba66608b3e4d9f70a92f8888c199612013e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: rails --version <zaenalmuttaqien3@gmail.com>
+Date:   Fri Apr 5 13:22:46 2019 +0700
+
+    modified js di file footer and readme
+
+[33mcommit 4ec12522a423786076438ce00d627fa8f2a503ac[m[33m ([m[1;31mgithub/master[m[33m)[m
+Author: rails --version <zaenalmuttaqien3@gmail.com>
+Date:   Fri Apr 5 10:17:56 2019 +0700
+
+    modifikasi nama function yang di jalankan oleh attribute setinterval
+
+[33mcommit 2cf652f294023ac6d21367cc8e57dc99eecdb71c[m
+Author: rails --version <zaenalmuttaqien3@gmail.com>
+Date:   Fri Apr 5 01:53:48 2019 +0700
+
+    modified controller home
+
+[33mcommit 832a68ae7f750fd8ce5ca0377eea1092936107a9[m
+Author: rails --version <zaenalmuttaqien3@gmail.com>
+Date:   Fri Apr 5 01:53:11 2019 +0700
+
+    modified display data that has been processed in javascript
+
+[33mcommit 0405788d57b7562e58a6ce0d4e705b9ad823d568[m
+Author: rails --version <zaenalmuttaqien3@gmail.com>
+Date:   Fri Apr 5 01:48:49 2019 +0700
+
+    modified function js for get data API currencylayer
+
+[33mcommit 170b224cf53eec0b4e3e8123bf06664afc4f0377[m
+Author: rails --version <zaenalmuttaqien3@gmail.com>
+Date:   Fri Apr 5 00:12:26 2019 +0700
+
+    modification in file autoload from folder config, modification in file home from controller, modification in file home from folder views
+
+[33mcommit 4d89aafc94cb4e0d664845ba63910bd03b4aea57[m
+Author: rails --version <zaenalmuttaqien3@gmail.com>
+Date:   Fri Apr 5 00:10:18 2019 +0700
+
+    1. create class template in folder libraries for functon dynamic page layout
+    2. create head, footer, navbar and content in the folder / template view.
+       to fill in the content I created a file called home and created in the view folder.
+    3. create costum styling, and name file css a costum.css
+    4. and logo flag a saved in folder assets image.
+    5. set config for autoload libraries template
+
+[33mcommit 9e55d969cbd9711135431d87122e69ac25679fa6[m
+Author: rails --version <zaenalmuttaqien3@gmail.com>
+Date:   Thu Apr 4 13:09:17 2019 +0700
+
+    create page layout currency exchange
+
+[33mcommit 0d7ae4695a8f6c75163506c5f7b641b2de626c8d[m
+Author: rails --version <zaenalmuttaqien3@gmail.com>
+Date:   Thu Apr 4 01:23:06 2019 +0700
+
+    add bootstrap version 4.3 and create folder assets in framework codeigniter
+
+[33mcommit c739f7804b3f1b76864459d2d72e486ebd5abe79[m
+Author: rails --version <zaenalmuttaqien3@gmail.com>
+Date:   Thu Apr 4 01:09:09 2019 +0700
+
+    create new project, using the framework codeigniter, and push to new my repository
+
+[33mcommit d421af126c2dcefae46248901f3438562c6ce93d[m
+Author: giafhibbia <zaenalmuttaqien3@gmail.com>
+Date:   Thu Apr 4 01:04:15 2019 +0700
+
+    Initial commit
