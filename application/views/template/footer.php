@@ -50,7 +50,7 @@ $(document).ready(function(){
 		});
 	}
 
-
+	setInterval(getAllCurrency ,3000); 
 	function getAllCurrency(){
 		var endpoint = 'live';
 		var access_key = 'b8f26fe7d0c35cdb30264c1a26d993cf';
@@ -75,7 +75,7 @@ $(document).ready(function(){
 		});
 		
 	}
-	setInterval(getDataAccurancy ,3000);                                                                                     
+	                                                                                    
 });
 
 </script>
