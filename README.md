@@ -52,4 +52,3 @@ Proses pengolahan data API currencylayer menggunakan jquery js:
 	     });
 	}setInterval(getAllCurrency ,3000);});
 
-
